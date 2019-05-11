@@ -1,0 +1,27 @@
+---
+title: "Climate Report"
+subtitle: "Temperature and Precipitation 1960-2014"
+author: <Yuqing Cui>
+date: <05/10/2019>
+output: html_document
+---
+### Data
+
+This report uses the temperature and precipitation data for North America for April 1960, 1986, and 2014 to analyze changes in temperature and precipitation patterns.
+
+### Temperature
+
+![](1960Temperature.png)
+![](1986Temperature.png)
+![](2014Temperature.png)
+
+The change in temperature is very subtle. However, we can still see the north part becomes darker, which means that the temperature is getting lower.
+
+
+### Precipitation
+
+![](1960Precipitation.png)
+![](1986Precipitation.png) 
+![](2014Precipitation.png)
+
+Totally, the precipitation is higher near seas, and it increases. The maximum precipitation increases dramatically in 1986 that it's nearly twice of that of other years.
